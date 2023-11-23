@@ -32,8 +32,17 @@ body {
 
 }
 
+.carouselExampleDark {
+}
+
 .carousel-inner {
-    border: #000000 solid 5px;
+    border: #000000 solid 3px;
+    filter: contrast(80%);
+}
+
+.carousel-caption, .d-none, .d-md-block{
+    font-size: 25px;
+    font-weight: bold;
 }
 
 .localfoto {
