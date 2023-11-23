@@ -45,6 +45,19 @@ body {
     background: white;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: black;
+}
+
+.row {
+    text-align: center;
+}
+
 footer {
     width: 100%;
     background: white;
