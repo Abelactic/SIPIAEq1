@@ -32,6 +32,10 @@ body {
 
 }
 
+.carousel-inner {
+    border: #000000 solid 5px;
+}
+
 .localfoto {
     padding-left: 20px;
     padding: 1em;
