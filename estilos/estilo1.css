@@ -32,11 +32,12 @@ body {
 
 }
 
-.carouselExampleDark {
+.col-6 p{
+    font-size: 19px;
 }
 
 .carousel-inner {
-    border: #000000 solid 3px;
+    border: #404040 solid 2px;
     filter: contrast(80%);
 }
 
